@@ -3,11 +3,9 @@ langchain
 langchain-community
 langchain-openai
 langchain-huggingface
-langchain-groq
 sentence-transformers
 faiss-cpu
 pypdf
 python-dotenv
 openai
 tiktoken
-torch==2.3.0+cpu --index-url https://download.pytorch.org/whl/cpu
