@@ -2,10 +2,11 @@ streamlit
 langchain
 langchain-community
 langchain-openai
+langchain-huggingface
+sentence-transformers
 faiss-cpu
 pypdf
 python-dotenv
 openai
 tiktoken
-langchain-huggingface
-sentence-transformers
+torch==2.3.0+cpu --index-url https://download.pytorch.org/whl/cpu
