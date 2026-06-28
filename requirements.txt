@@ -7,3 +7,5 @@ pypdf
 python-dotenv
 openai
 tiktoken
+langchain-huggingface
+sentence-transformers
