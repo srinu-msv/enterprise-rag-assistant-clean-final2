@@ -9,3 +9,4 @@ pypdf
 python-dotenv
 openai
 tiktoken
+torch==2.3.0 --index-url https://download.pytorch.org/whl/cpu
