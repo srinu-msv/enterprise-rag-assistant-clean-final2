@@ -1,12 +1,12 @@
 streamlit
-langchain==0.2.11
-langchain-community==0.2.10
-langchain-openai==0.1.8
-langchain-huggingface==0.0.3
-sentence-transformers==2.7.0
-faiss-cpu==1.8.0
-pypdf==4.2.0
-python-dotenv==1.0.1
-openai==1.35.13
-tiktoken==0.7.0
-torch==2.3.0 --index-url https://download.pytorch.org/whl/cpu
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+google-generativeai
+sentence-transformers
+faiss-cpu
+python-dotenv
+pypdf
+transformers
+torch
